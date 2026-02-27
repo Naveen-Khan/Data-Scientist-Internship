@@ -5,9 +5,10 @@ to preprocess the data, choose a suitable model (e.g., linear regression or LSTM
 train it, and evaluate its prediction accuracy
 
 
-### 📌 Overview
-This project is part of my Data Scientist Internship tasks. The goal is to build a machine learning model that predicts future stock prices based on historical data. The dataset includes features such as:
+### 📌 Project Overview
 
+This project focuses on predicting future stock prices using historical stock market data.
+The dataset used in this project is Netflix (NFLX) historical stock data containing 1009 records with features such as:
 - Open
 - High
 - Low
@@ -16,8 +17,36 @@ This project is part of my Data Scientist Internship tasks. The goal is to build
 - Volume
 - Date
 
+### 🎯 Objectives
+
+- Understand historical stock data behavior
+- Perform Exploratory Data Analysis (EDA)
+- Prepare data for machine learning
+- Train regression models for price prediction
+- Evaluate model performance
+- Compare model accuracy
+
+The goal of this project is to preprocess the data, perform exploratory data analysis (EDA), build machine learning models, and evaluate prediction accuracy
+
 ### Dataset 
     https://www.kaggle.com/datasets/jainilcoder/netflix-stock-price-prediction
+
+📊 Dataset Information
+
+Dataset: Netflix Historical Stock Data
+Total Records: 1009
+
+Features:
+
+Feature	Description
+Date:	Trading date
+Open:	Opening stock price
+High:	Highest price of the day
+Low	:   Lowest price of the day
+Close:	 Closing stock price
+Adj Close:	Adjusted closing price
+Volume	:Number of shares traded
+    
 
 ### WorkFlow
 1. Data Collection
