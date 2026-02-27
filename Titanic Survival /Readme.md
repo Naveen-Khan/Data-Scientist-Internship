@@ -47,3 +47,23 @@ Key parameters used:
 
     - random_state=42 (for reproducibility)
 
+# 📊 Model Evaluation
+
+Evaluation metrics used:
+- Accuracy
+- Confusion Matrix
+- Precision
+- Recall
+- F1-Score
+
+### 🔢 Final Results
+Training Accuracy: 93%
+Testing Accuracy: 92%
+
+# 🧰 Technologies Used
+
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib / Seaborn
