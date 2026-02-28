@@ -4,12 +4,12 @@ passenger survived or not based on features like age, gender, ticket class, and 
 Your task is to clean and preprocess the data, train a classification model, and
 evaluate its performance.
 
-# 📌 Project Overview
+# 📌Project Overview
 
 - This project builds a Machine Learning Classification Model to predict whether a passenger survived the Titanic disaster using the famous Titanic Dataset.
 - The model uses passenger information such as age, gender, ticket class, fare, and family details to predict survival.
 
-  # 📂 Dataset Features
+  ### Dataset Features
 
 - The dataset includes the following features:
 - PassengerId
@@ -25,7 +25,7 @@ evaluate its performance.
 Survived (Target Variable)
 
 
-# 🛠 Data Preprocessing
+### Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -36,7 +36,7 @@ The following preprocessing steps were performed:
 - No data shuffling to maintain consistency
 
 # 🤖 Model Used
-### 🌳 Decision Tree Classifier
+###  Decision Tree Classifier
 
 Implemented using:
       
@@ -47,7 +47,7 @@ Key parameters used:
 
     - random_state=42 (for reproducibility)
 
-# 📊 Model Evaluation
+###  Model Evaluation
 
 Evaluation metrics used:
 - Accuracy
@@ -56,11 +56,11 @@ Evaluation metrics used:
 - Recall
 - F1-Score
 
-### 🔢 Final Results
+###  Final Results
 Training Accuracy: 93%
 Testing Accuracy: 92%
 
-# 🧰 Technologies Used
+### 🧰 Technologies Used
 
 - Python
 - Pandas
